@@ -3,59 +3,54 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
-    image_alt: App preview
-    title: This Is A Big Hero Headline
+    # image: images/hero.png
+    # image_alt: App preview
+    video: https://www.youtube.com/embed/RZPNmXRTcMw
+    title: Understand Advanced Music Theory
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Videos, courses and 1:1 sessions in music theory. All hands-on and practical. 
+      Want to improve your soloing, reharmonization or songwriting?
     actions:
       - label: Learn More
         url: /features
         style: primary
   - section_id: features
     type: section_features
-    background: gray
-    title: Features
+    background: white
+    title: Become a better musician
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Learn how to compose, play, improvise and write better. Music theory helps you – and it is a lot of fun!
     features:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
-        image_alt: App preview on a phone and tablet
+      - title: Basic Songwriting Tricks
+        image: images/services/2.png
+        image_alt: Free email course
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Get 5 songwriting tricks that you can apply immediately! This 5-day email course teaches you tips for chord changes, melody and song form.
         actions:
-          - label: Learn More
+          - label: Start Learning Now
             url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
-        image_alt: App users welcoming a new member
+      - title: Music Theory Videos
+        image: images/services/1.png
+        image_alt: YouTube channel
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Find loads of free music theory videos on my YouTube channel. Learn about music theory concepts and see how it is applied to hit songs.
         actions:
-          - label: Learn More
+          - label: Subscribe on YouTube
             url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
-        image_alt: App user profile preview
+      - title: 9 Essential Chord Progressions
+        image: images/services/3.png
+        image_alt: Video course
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          This video course could make you a hit song writer in one weekend. 
+          Learn 9 essential chord progressions from hit songs and become a better songwriter. More than 4 hours of video.
         actions:
           - label: Learn More
             url: /features
