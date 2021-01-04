@@ -3,9 +3,10 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    # image: images/hero.png
-    # image_alt: App preview
-    video: https://www.youtube.com/embed/RZPNmXRTcMw
+    image: images/hero.png
+    image_alt: App preview
+    # video: https://www.youtube.com/embed/RZPNmXRTcMw
+    # video_title: "Video: The Backdoor Progression"
     title: Understand Advanced Music Theory
     content: >-
       Videos, courses and 1:1 sessions in music theory. All hands-on and practical. 
